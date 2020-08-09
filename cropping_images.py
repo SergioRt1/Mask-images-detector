@@ -7,6 +7,7 @@ def crop_images(dataset):
     image_names = os.listdir('images/')
     i = 0
     errors = 0
+    processed_images = 0
     for name in image_names:
         img = cv2.imread('images/' + name, cv2.IMREAD_COLOR)
         img_RGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -24,6 +25,7 @@ def crop_images(dataset):
             except:
                 errors += 1
                 print("Error in image: {}, faces: {}, #{}".format(name, faces, errors))
+        print("Processed images:", processed_images)
 
 
 crop_images("faces")
