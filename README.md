@@ -4,7 +4,7 @@
 Laboratory for the NUTE course at Escuela Colombiana de Ingeniería Julio Garavito. 
 
 **Problem**: 
-
+Scientists have shown that wearing a mask could dramatically slow down the infection rate of COVID-19 so in order to help we propose an intelligent system that recognizes a person's face and decides whether or not a person is wearing a mask.
 
 
 **Achievements**
