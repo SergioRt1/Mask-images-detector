@@ -45,7 +45,7 @@ $ cropping_images.py
 Then run the `classification_csv_generator.py` script to generate a csv file with the labels of your pictures, 
 
 ```
-$ croppingclassification_csv_generator_images.py
+$ classification_csv_generator_images.py
 ```
 
 #### Features and models
