@@ -1,4 +1,4 @@
-##_Analysis and predictions in a communication network of researchers via email_
+## Analysis and predictions in a communication network of researchers via email
 
 ***Authors:**  Luis Felipe Díaz Chica, Sergio Andrés Rodriguez Torres*
 *All this work is the result of the course Machine Learning on graphs at Escuela Colombiana de Ingeniería Julio Garavito and the Master in Informatics*
